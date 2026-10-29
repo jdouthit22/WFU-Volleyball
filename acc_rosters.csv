@@ -1,0 +1,311 @@
+team,jersey,name,position,position_std,class,height,hometown,source_url,scraped_on
+Boston College,1,Ava Castro,OH,Outside,Fr.,5' 7'',"Palm Beach, Fla. / Cardinal Newman",https://bceagles.com/sports/womens-volleyball/roster,2026-10-26
+Boston College,3,Ali Natt,L,Libero,So.,5' 10'',"Fort Lauderdale, Fla. / Pine Crest School",https://bceagles.com/sports/womens-volleyball/roster,2026-10-26
+Boston College,5,Reese Dunkle,MB,Middle,So.,6' 3'',"Greenwood, Ind. / Center Grove",https://bceagles.com/sports/womens-volleyball/roster,2026-10-26
+Boston College,7,Mia Gold,OH,Outside,Fr.,6' 0'',"Miami, Fla. / Pine Crest Fort Lauderdale",https://bceagles.com/sports/womens-volleyball/roster,2026-10-26
+Boston College,8,Tiani Shaw,L/DS,Libero,Fr.,5' 7'',"Manhattan Beach, Calif. / Mater Dei High School",https://bceagles.com/sports/womens-volleyball/roster,2026-10-26
+Boston College,9,Ava McBride,S/RS,Setter,Fr.,6' 1'',"Los Angeles, Calif. / Notre Dame Academy",https://bceagles.com/sports/womens-volleyball/roster,2026-10-26
+Boston College,10,Aubrey Moore,S,Setter,Jr.,5' 9'',"Darien, Conn. / Darien",https://bceagles.com/sports/womens-volleyball/roster,2026-10-26
+Boston College,11,Laney Blevins,MB,Middle,Fr.,6' 3'',"Kernersville, N.C. / East Forsyth High School",https://bceagles.com/sports/womens-volleyball/roster,2026-10-26
+Boston College,12,Sam Hoppes,OPP,Opposite,Sr.,6' 1'',"Trophy Club, Texas / Byron Nelson",https://bceagles.com/sports/womens-volleyball/roster,2026-10-26
+Boston College,13,Audrey Ross,OH,Outside,Sr.,6' 3'',"Danville, Calif. / San Ramon Valley",https://bceagles.com/sports/womens-volleyball/roster,2026-10-26
+Boston College,14,Chloe Allcroft,MB,Middle,Fr.,6' 2'',"Mill Valley, Calif. / Marin Catholic High School",https://bceagles.com/sports/womens-volleyball/roster,2026-10-26
+Boston College,15,Lucy Mott,S,Setter,Jr.,6' 0'',"Toledo, Ohio / St. Ursula Academy",https://bceagles.com/sports/womens-volleyball/roster,2026-10-26
+Boston College,16,Brooklyn Yelland,L/DS,Libero,Sr.,5' 8'',"Laguna Beach, Calif. / Laguna Beach",https://bceagles.com/sports/womens-volleyball/roster,2026-10-26
+Boston College,17,Lucie Vesela,S,Setter,Gr.,5' 8'',"Rozdrojovice, Czechia / Gymnázium Ludvíka Danka",https://bceagles.com/sports/womens-volleyball/roster,2026-10-26
+Boston College,19,Sofija Marjanovic,OH,Outside,So.,6' 4'',"Belgrade, Serbia / Belgrade High School",https://bceagles.com/sports/womens-volleyball/roster,2026-10-26
+Boston College,21,Naomi Watson,MB,Middle,Jr.,6' 1'',"Menlo Park, Calif. / Sacred Heart Prep",https://bceagles.com/sports/womens-volleyball/roster,2026-10-26
+Boston College,22,Savannah Curtis,L,Libero,So.,5' 8'',"Laguna Niguel, Calif. / Dana Hills",https://bceagles.com/sports/womens-volleyball/roster,2026-10-26
+Boston College,29,Bella Ehrlich,MB,Middle,So.,6' 3'',"San Ramon, Calif / Carondelet High School",https://bceagles.com/sports/womens-volleyball/roster,2026-10-26
+Boston College,33,Isabelle Poehlein,OPP,Opposite,Jr.,6' 2'',"Zionsville, Ind. / Zionsville Community",https://bceagles.com/sports/womens-volleyball/roster,2026-10-26
+Boston College,68,Milly Wolf,S,Setter,So.,5' 11'',"Allentown, Penn. / Allentown Central Catholic",https://bceagles.com/sports/womens-volleyball/roster,2026-10-26
+California,2,Sophia Johnson,DS/L,DS,Sr.,,"Wayzata, Minn.",https://calbears.com/sports/womens-volleyball/roster,2026-10-26
+California,3,Ashleigh Woodruff,MB,Middle,Sr.,,"Scarsdale, N.Y.",https://calbears.com/sports/womens-volleyball/roster,2026-10-26
+California,4,Francesca Popescu,DS/L,DS,So.,,"Johns Creek, Ga.",https://calbears.com/sports/womens-volleyball/roster,2026-10-26
+California,5,Cari Bohm,MB,Middle,5th,,"Ann Arbor, Mich.",https://calbears.com/sports/womens-volleyball/roster,2026-10-26
+California,6,Nicole Milosevic,OH/OPP,Outside,Fr.,,"Toronto, Ontario",https://calbears.com/sports/womens-volleyball/roster,2026-10-26
+California,7,Siena MacCudden,DS/L,DS,Fr.,,"Nashotah, Wisc.",https://calbears.com/sports/womens-volleyball/roster,2026-10-26
+California,8,Rania Chimonides,MB,Middle,So.,,"Nicosia, Cyprus",https://calbears.com/sports/womens-volleyball/roster,2026-10-26
+California,9,Annemarie O'Gara,OPP,Opposite,So.,,"Phoenix, Ariz.",https://calbears.com/sports/womens-volleyball/roster,2026-10-26
+California,10,Dominique Phills,OH,Outside,Jr.,,"Pearland, Texas",https://calbears.com/sports/womens-volleyball/roster,2026-10-26
+California,11,Grace Agolli,OPP,Opposite,R-So.,,"Atlanta, Ga.",https://calbears.com/sports/womens-volleyball/roster,2026-10-26
+California,13,Abby Zimmerman,OH/OPP,Outside,Fr.,,"Redondo Beach, Calif.",https://calbears.com/sports/womens-volleyball/roster,2026-10-26
+California,14,Elise Lau,DS/L,DS,So.,,"Brisbane, Calif.",https://calbears.com/sports/womens-volleyball/roster,2026-10-26
+California,15,Sawyer Thomsen,MB,Middle,Sr.,,"Lawrence, Kan.",https://calbears.com/sports/womens-volleyball/roster,2026-10-26
+California,17,Arissa Carbonara,OH,Outside,So.,,"Cuero, Texas",https://calbears.com/sports/womens-volleyball/roster,2026-10-26
+California,18,Ashley Li,OH,Outside,Sr.,,"Diamond Bar, Calif.",https://calbears.com/sports/womens-volleyball/roster,2026-10-26
+California,21,Portia Sherman,OH,Outside,5th,,"Goleta, Calif.",https://calbears.com/sports/womens-volleyball/roster,2026-10-26
+California,22,Maria Știrbu,S,Setter,So.,,"Bucharest, Romania",https://calbears.com/sports/womens-volleyball/roster,2026-10-26
+California,24,Anna Flores,S,Setter,Fr.,,"Keller, Texas",https://calbears.com/sports/womens-volleyball/roster,2026-10-26
+Clemson,1,Ihuoma Ozoh,Middle Hitter,Middle,Freshman,6-3,"Haze Crest, Ill.",https://clemsontigers.com/sports/volleyball/roster/,2026-10-26
+Clemson,2,Kennedy Wagner,Pin Attacker,Pin,Senior,6-0,"Valparaiso, Ind.",https://clemsontigers.com/sports/volleyball/roster/,2026-10-26
+Clemson,4,Bri Washington,Middle Hitter,Middle,Sophomore,5-11,"Triangle, Va.",https://clemsontigers.com/sports/volleyball/roster/,2026-10-26
+Clemson,5,Talea Mitchell,Middle Hitter,Middle,Junior,6-1,"Litchfield Park, Ariz.",https://clemsontigers.com/sports/volleyball/roster/,2026-10-26
+Clemson,6,Katherine Sandt,Setter,Setter,Senior,6-0,"Western Springs, Ill.",https://clemsontigers.com/sports/volleyball/roster/,2026-10-26
+Clemson,7,Maddie Anspaugh,Pin Attacker,Pin,Freshman,6-2,"Rockford, Ill.",https://clemsontigers.com/sports/volleyball/roster/,2026-10-26
+Clemson,8,Khaya Gordon,Pin Attacker,Pin,Senior,6-0,"Belize City, Belize",https://clemsontigers.com/sports/volleyball/roster/,2026-10-26
+Clemson,10,Lina Merz,Pin Attacker,Pin,Sophomore,6-3,"Dresden, Germany",https://clemsontigers.com/sports/volleyball/roster/,2026-10-26
+Clemson,11,Addi Rains,Libero,Libero,Junior,5-5,"Yorktown, Ind.",https://clemsontigers.com/sports/volleyball/roster/,2026-10-26
+Clemson,12,Claire Luoma,Libero,Libero,Junior,5-7,"Franklin, Wis.",https://clemsontigers.com/sports/volleyball/roster/,2026-10-26
+Clemson,14,Audrey Armbruster,Setter,Setter,Senior,5-11,"Cincinnati, Ohio",https://clemsontigers.com/sports/volleyball/roster/,2026-10-26
+Clemson,18,Alyssa Irwin,Middle Hitter,Middle,Senior,6-1,"Fort Lauderdale, Fla.",https://clemsontigers.com/sports/volleyball/roster/,2026-10-26
+Clemson,19,Lauren Schneider,Pin Attacker,Pin,Senior,5-9,"Denton, Texas",https://clemsontigers.com/sports/volleyball/roster/,2026-10-26
+Clemson,22,Lucy Maloney,Libero,Libero,Freshman,5-5,"Evergreen Park, Ill.",https://clemsontigers.com/sports/volleyball/roster/,2026-10-26
+Clemson,24,Anika Groom,Pin Attacker,Pin,Sophomore,6-1,"Orlando, Fla.",https://clemsontigers.com/sports/volleyball/roster/,2026-10-26
+Clemson,28,McKenna Gildon,Libero,Libero,Senior,5-10,"Plano, Texas",https://clemsontigers.com/sports/volleyball/roster/,2026-10-26
+Duke,0,Zoë Gillen-Malveaux,MB,Middle,So.,6' 3'',"Dallas, Texas / Greenhill High School",https://goduke.com/sports/womens-volleyball/roster,2026-10-26
+Duke,1,Lauren Ingram,OH,Outside,Sr.,6' 1'',"Dallas, Texas / The Hockaday School",https://goduke.com/sports/womens-volleyball/roster,2026-10-26
+Duke,2,Grace Thrower,OH,Outside,R-Jr.,6' 2'',"Manhattan Beach, Calif. / Harvard-Westlake",https://goduke.com/sports/womens-volleyball/roster,2026-10-26
+Duke,4,Kyndal Ganoe,L,Libero,Gr.,5' 7'',"Bardstown, Ky. / Bardstown",https://goduke.com/sports/womens-volleyball/roster,2026-10-26
+Duke,5,Breonna Goss,MB,Middle,Jr.,6' 0'',"Fishers, Ind. / Hamilton Southeastern",https://goduke.com/sports/womens-volleyball/roster,2026-10-26
+Duke,6,Riley Copenhaver,OPP,Opposite,Fr.,6' 1'',"Brighton, Mich. / Brighton",https://goduke.com/sports/womens-volleyball/roster,2026-10-26
+Duke,7,Sara Lozano,OH,Outside,Fr.,5' 11'',"Luquillo, Puerto Rico / IMG Academy",https://goduke.com/sports/womens-volleyball/roster,2026-10-26
+Duke,8,Nataly Moravec,OH,Outside,Gr.,6' 3'',"Weston, Conn. / Hopkins",https://goduke.com/sports/womens-volleyball/roster,2026-10-26
+Duke,9,Taylor Williams,OH,Outside,Jr.,6' 2'',"Mountain View, Calif. / Saint Francis",https://goduke.com/sports/womens-volleyball/roster,2026-10-26
+Duke,10,Mailinh Godschall,DS/L,DS,Jr.,5' 7'',"Ellicott City, Md. / Centennial",https://goduke.com/sports/womens-volleyball/roster,2026-10-26
+Duke,11,Ashby Zubchevich,OH,Outside,So.,6' 0'',"La Cañada Flintridge, Calif. / La Cañada High School",https://goduke.com/sports/womens-volleyball/roster,2026-10-26
+Duke,12,Avery Hamlin,OH,Outside,Jr.,6' 1'',"Austin, Texas / Lake Travis",https://goduke.com/sports/womens-volleyball/roster,2026-10-26
+Duke,14,Carlyle Johnson,OH,Outside,Fr.,6' 2'',"Wichita, Kan. / Wichita Collegiate School",https://goduke.com/sports/womens-volleyball/roster,2026-10-26
+Duke,15,Olivia Wayne,A,,So.,6' 3'',"Dallas, Texas / The Hockaday School",https://goduke.com/sports/womens-volleyball/roster,2026-10-26
+Duke,19,Aly Donoghue,DS/L,DS,So.,5' 6'',"Toronto, Ontario, Canada / Havergal College",https://goduke.com/sports/womens-volleyball/roster,2026-10-26
+Duke,22,Charlotte Glass,S,Setter,So.,6' 1'',"Boca Raton, Fla. / Saint Andrews School",https://goduke.com/sports/womens-volleyball/roster,2026-10-26
+Duke,23,Nikki Quinn,S,Setter,R-Jr.,5' 11'',"Del Mar, Calif. / Torrey Pines",https://goduke.com/sports/womens-volleyball/roster,2026-10-26
+Florida State,0,Payton Whalen,Outside Hitter,Outside,So.,6' 1'',"Peoria, Ariz.",https://seminoles.com/sports/womens-volleyball/roster,2026-10-26
+Florida State,1,Ava Lambert,Libero,Libero,So.,5' 9'',"Scottsdale, Ariz.",https://seminoles.com/sports/womens-volleyball/roster,2026-10-26
+Florida State,2,Nicole Mauser,Opposite,Opposite,Sr.,6' 2'',Dallas Texas,https://seminoles.com/sports/womens-volleyball/roster,2026-10-26
+Florida State,3,Kelsey Perry,Middle Blocker,Middle,5th,6' 4'',"Frisco, Texas",https://seminoles.com/sports/womens-volleyball/roster,2026-10-26
+Florida State,6,Victoria David,Outside Hitter,Outside,So.,6' 1'',"Rio de Janeiro, Brazil",https://seminoles.com/sports/womens-volleyball/roster,2026-10-26
+Florida State,7,Ryan Murphy,Setter,Setter,So.,6' 1'',"Ponte Vedra Beach, Fla.",https://seminoles.com/sports/womens-volleyball/roster,2026-10-26
+Florida State,9,Emma Lilo,Setter,Setter,Jr.,5' 9'',"Kailua, Hawaii",https://seminoles.com/sports/womens-volleyball/roster,2026-10-26
+Florida State,10,Callie Kieffer,Setter,Setter,Sr.,5' 10'',"Prosper, Texas",https://seminoles.com/sports/womens-volleyball/roster,2026-10-26
+Florida State,11,Caylan Russ,Libero,Libero,Jr.,5' 6'',"Winter Garden, Fla.",https://seminoles.com/sports/womens-volleyball/roster,2026-10-26
+Florida State,12,Kyleene Filimaua,Outside Hitter,Outside,Sr.,6' 1'',"Bothell, Wash.",https://seminoles.com/sports/womens-volleyball/roster,2026-10-26
+Florida State,13,Bennett Raterman,Middle Blocker,Middle,Fr.,6' 3'',"St. Louis, Mo.",https://seminoles.com/sports/womens-volleyball/roster,2026-10-26
+Florida State,15,Johanna Sova,Opposite,Opposite,Jr.,6' 5'',"Tallinn, Estonia",https://seminoles.com/sports/womens-volleyball/roster,2026-10-26
+Florida State,16,Nenu Kpea,Middle Blocker,Middle,So.,6' 2'',"Melissa, Texas",https://seminoles.com/sports/womens-volleyball/roster,2026-10-26
+Florida State,17,Sofia Moss,Outside Hitter,Outside,Fr.,6' 0'',"Tortoli, Italy",https://seminoles.com/sports/womens-volleyball/roster,2026-10-26
+Florida State,18,Maile Chan,Libero,Libero,Jr.,5' 3'',"Portland, Ore.",https://seminoles.com/sports/womens-volleyball/roster,2026-10-26
+Florida State,21,Bailey Higgins,Opposite,Opposite,Jr.,5' 11'',"Tampa, Fla.",https://seminoles.com/sports/womens-volleyball/roster,2026-10-26
+Florida State,24,Delaney Ewing,Middle Blocker,Middle,Jr.,6' 2'',"Fort Collins, Colo.",https://seminoles.com/sports/womens-volleyball/roster,2026-10-26
+Florida State,26,Lexie Mason,Opposite,Opposite,So.,6' 1'',"Burlington, Wash.",https://seminoles.com/sports/womens-volleyball/roster,2026-10-26
+Georgia Tech,1,Riley Bethea,Middle Blocker,Middle,Freshman,6-2,"Atlanta, Ga.",https://ramblinwreck.com/sports/w-volley/roster/,2026-10-26
+Georgia Tech,4,Gabi Robinska,Right Side,Opposite,Sophomore,6-3,"Warsaw, Poland",https://ramblinwreck.com/sports/w-volley/roster/,2026-10-26
+Georgia Tech,5,Bianca Garibaldi,Middle Blocker,Middle,Junior,5-11,"Villa Carlos Paz, Argentina",https://ramblinwreck.com/sports/w-volley/roster/,2026-10-26
+Georgia Tech,6,Mana Kaneko,Libero,Libero,Junior,5-0,"Hiroshima, Japan",https://ramblinwreck.com/sports/w-volley/roster/,2026-10-26
+Georgia Tech,7,Anna Fiedorowicz,Outside Hitter,Outside,Sophomore,6-0,"Olsztyn, Poland",https://ramblinwreck.com/sports/w-volley/roster/,2026-10-26
+Georgia Tech,8,Simone Heard,Outside Hitter,Outside,Freshman,5-11,"Dallas, Texas",https://ramblinwreck.com/sports/w-volley/roster/,2026-10-26
+Georgia Tech,9,Alida Bennour,Right Side,Opposite,Freshman,6-2,"Algiers, Algeria",https://ramblinwreck.com/sports/w-volley/roster/,2026-10-26
+Georgia Tech,11,Larissa Mendes,Right Side,Opposite,Senior,6-2,"Fortaleza, Brazil",https://ramblinwreck.com/sports/w-volley/roster/,2026-10-26
+Georgia Tech,12,Sasha Godey,Setter,Setter,Freshman,5-11,"Quimper, France",https://ramblinwreck.com/sports/w-volley/roster/,2026-10-26
+Georgia Tech,13,Heloise Soares,Setter,Setter,Senior,5-11,"Joinville, Brazil",https://ramblinwreck.com/sports/w-volley/roster/,2026-10-26
+Georgia Tech,14,Zoë Humphrey,Middle Blocker,Middle,Sophomore,6-2,"Houston, Texas",https://ramblinwreck.com/sports/w-volley/roster/,2026-10-26
+Georgia Tech,15,Abi Li,Setter,Setter,Sophomore,6-1,"Alpharetta, Ga.",https://ramblinwreck.com/sports/w-volley/roster/,2026-10-26
+Georgia Tech,18,Danielle Tansey,Defensive Specialist/ Libero,DS,Sophomore,5-6,"Belle Harbor, NY",https://ramblinwreck.com/sports/w-volley/roster/,2026-10-26
+Georgia Tech,20,Laura Bieleski,Outside Hitter,Outside,Sophomore,6-0,"Arapongas, Brazil",https://ramblinwreck.com/sports/w-volley/roster/,2026-10-26
+Georgia Tech,21,Mia Hood,Middle Blocker,Middle,Junior,6-6,"Roswell, Ga.",https://ramblinwreck.com/sports/w-volley/roster/,2026-10-26
+Georgia Tech,24,Vitoria Belfort,Libero,Libero,Freshman,5-9,"Parkland, Fla.",https://ramblinwreck.com/sports/w-volley/roster/,2026-10-26
+Georgia Tech,25,Magda Kobaidze,Outside Hitter,Outside,Freshman,6-1,"Tbilisi, Georgia",https://ramblinwreck.com/sports/w-volley/roster/,2026-10-26
+Georgia Tech,44,Willow Weninger,Right Side,Opposite,Freshman,6-2,"Overland Park, KS",https://ramblinwreck.com/sports/w-volley/roster/,2026-10-26
+Louisville,2,Chloe Meester,OH,Outside,So.,6' 3'',"Mount Vernon, Iowa / Mount Vernon",https://gocards.com/sports/womens-volleyball/roster,2026-10-26
+Louisville,3,Kamden Schrand,L/DS,Libero,Sr.,5' 7'',"Villa Hills, Ky. / Notre Dame Academy",https://gocards.com/sports/womens-volleyball/roster,2026-10-26
+Louisville,4,Addison Makun,MB,Middle,So.,6' 3'',"Charlestown, Ind. / Silver Creek",https://gocards.com/sports/womens-volleyball/roster,2026-10-26
+Louisville,5,Amirra Bailey,MB/OPP,Middle,Fr.,6' 5'',"Bowling Green, Ky. / Bowling Green",https://gocards.com/sports/womens-volleyball/roster,2026-10-26
+Louisville,6,Hannah Kenny,S/L,Setter,So.,5' 8'',"Villa Park, Ill. / Willowbrook",https://gocards.com/sports/womens-volleyball/roster,2026-10-26
+Louisville,7,Chloe Chicoine,OH,Outside,Sr.,5' 9'',"Lafayette, Ind. / McCutcheon",https://gocards.com/sports/womens-volleyball/roster,2026-10-26
+Louisville,8,Nayelis Cabello,S,Setter,Jr.,6' 0'',"Clermont, Fla. / East Ridge",https://gocards.com/sports/womens-volleyball/roster,2026-10-26
+Louisville,9,Jordyn Gray,OH,Outside,Fr.,6' 1'',"Charlotte, N.C. / Cox Mill",https://gocards.com/sports/womens-volleyball/roster,2026-10-26
+Louisville,10,Elsi Karjanlahti,L/DS,Libero,Fr.,5' 8'',"Seinäjoki, Finland / Sampo Central",https://gocards.com/sports/womens-volleyball/roster,2026-10-26
+Louisville,11,Hannah Sherman,MB,Middle,5th,6' 3'',"Silver Spring, Md. / Holy Cross",https://gocards.com/sports/womens-volleyball/roster,2026-10-26
+Louisville,12,Jessica Drapp,DS,DS,Sr.,5' 6'',"Cincinnati, Ohio / Mercy McAuley",https://gocards.com/sports/womens-volleyball/roster,2026-10-26
+Louisville,17,Molly Urban,L/DS,Libero,Sr.,5' 4'',"Martinsville, Ind. / Martinsville",https://gocards.com/sports/womens-volleyball/roster,2026-10-26
+Louisville,21,Payton Petersen,OH/L,Outside,Jr.,6' 0'',"Dike, Iowa / Dike-New Hartford",https://gocards.com/sports/womens-volleyball/roster,2026-10-26
+Louisville,22,Blair Thiebaud,S,Setter,Fr.,6' 0'',"College Station, Texas / College Station",https://gocards.com/sports/womens-volleyball/roster,2026-10-26
+Louisville,24,Kalyssa Blackshear,OPP,Opposite,So.,6' 5'',"Lomita, Calif. / Torrance",https://gocards.com/sports/womens-volleyball/roster,2026-10-26
+Louisville,44,Brooke Bultema,MB,Middle,Sr.,6' 3'',"Cincinnati, Ohio / Ursuline Academy",https://gocards.com/sports/womens-volleyball/roster,2026-10-26
+Louisville,54,Elli Strecker,MB,Middle,Fr.,6' 4'',"Zionsville, Ind. / Zionsville Community",https://gocards.com/sports/womens-volleyball/roster,2026-10-26
+Miami,1,Ruth Martinez,Outside Hitter,Outside,Freshman,6-2,"La Romana, Dominican Republic",https://miamihurricanes.com/sports/wvball/roster/,2026-10-26
+Miami,2,Avery Bain,Outside Hitter,Outside,Senior,5-11,"Pittsburgh, Pa.",https://miamihurricanes.com/sports/wvball/roster/,2026-10-26
+Miami,3,Adrianna Bridges,Middle Blocker,Middle,Junior,6-4,"Pembroke Pines, Fla.",https://miamihurricanes.com/sports/wvball/roster/,2026-10-26
+Miami,4,Logan Wiley,Middle Blocker,Middle,Junior,6-2,"Alpharetta, Ga.",https://miamihurricanes.com/sports/wvball/roster/,2026-10-26
+Miami,5,Olivia Durst,Libero,Libero,Sophomore,5-8,"Brookfield, Wisc.",https://miamihurricanes.com/sports/wvball/roster/,2026-10-26
+Miami,6,Ariana Rodriguez,Setter,Setter,Redshirt Junior,5-10,"New York, N.Y.",https://miamihurricanes.com/sports/wvball/roster/,2026-10-26
+Miami,7,Stalena van Deusen,Libero,Libero,Freshman,5-7,"West Chester, Pa.",https://miamihurricanes.com/sports/wvball/roster/,2026-10-26
+Miami,8,Gaby Arroyo,Libero,Libero,Redshirt Senior,5-9,"Miami, Fla.",https://miamihurricanes.com/sports/wvball/roster/,2026-10-26
+Miami,11,Sonja Danilovic,Outside Hitter,Outside,Sophomore,6-2,"Belgrade, Serbia",https://miamihurricanes.com/sports/wvball/roster/,2026-10-26
+Miami,13,Billie Reiter,Setter,Setter,Sophomore,5-10,"Greendale, Wisc.",https://miamihurricanes.com/sports/wvball/roster/,2026-10-26
+Miami,15,Jovana Zelenovic,Outside Hitter,Outside,Sophomore,6-7,"Novi Sad, Serbia",https://miamihurricanes.com/sports/wvball/roster/,2026-10-26
+Miami,17,Ella Thompson,Outside Hitter,Outside,Freshman,6-0,"Vancouver, Wash.",https://miamihurricanes.com/sports/wvball/roster/,2026-10-26
+Miami,21,Denitsa Angelova,Middle Blocker,Middle,Freshman,6-0,"Sofia, Bulgaria",https://miamihurricanes.com/sports/wvball/roster/,2026-10-26
+Miami,22,Asia Harvey,Outside Hitter,Outside,Sophomore,6-0,"Tyrone, Ga.",https://miamihurricanes.com/sports/wvball/roster/,2026-10-26
+Miami,23,Lal Akin,Middle Blocker,Middle,Senior,6-3,"Istanbul, Turkey",https://miamihurricanes.com/sports/wvball/roster/,2026-10-26
+Miami,26,Simone Baskin,Middle Blocker,Middle,Sophomore,5-10,"Austin, Texas",https://miamihurricanes.com/sports/wvball/roster/,2026-10-26
+NC State,1,Zuzia Maciejewicz,L,Libero,So.,5' 6'',"Gorzów Wielkopolski, Poland",https://gopack.com/sports/womens-volleyball/roster,2026-10-26
+NC State,2,Callie Combs,DS/L,DS,Fr.,5' 6'',"Cincinnati, Ohio",https://gopack.com/sports/womens-volleyball/roster,2026-10-26
+NC State,3,Clara Vondran,OH,Outside,Sr.,5' 11'',"Columbus, Ohio",https://gopack.com/sports/womens-volleyball/roster,2026-10-26
+NC State,4,Sophie Groom,MB,Middle,5th,6' 2'',"Orlando, Fla.",https://gopack.com/sports/womens-volleyball/roster,2026-10-26
+NC State,5,Alyssa Forelli,S,Setter,Jr.,6' 0'',"Phoenix, AZ",https://gopack.com/sports/womens-volleyball/roster,2026-10-26
+NC State,6,Hailey McFadden,MB,Middle,So.,6' 2'',"Denver, NC",https://gopack.com/sports/womens-volleyball/roster,2026-10-26
+NC State,7,Kate Kilpatrick,L,Libero,Sr.,5' 8'',"Raleigh, N.C.",https://gopack.com/sports/womens-volleyball/roster,2026-10-26
+NC State,9,Sa'Mya Dorsey,OPP,Opposite,So.,6' 2'',"Phoenix, AZ",https://gopack.com/sports/womens-volleyball/roster,2026-10-26
+NC State,11,Laurna Kerr,DS/L,DS,Sr.,,"Raleigh, NC",https://gopack.com/sports/womens-volleyball/roster,2026-10-26
+NC State,12,Makenna Kowren,OPP,Opposite,Fr.,6' 1'',"Peoria, Arizona",https://gopack.com/sports/womens-volleyball/roster,2026-10-26
+NC State,14,Norah Busch,MB,Middle,Fr.,6' 1'',"Pottstown, Pennsylvania",https://gopack.com/sports/womens-volleyball/roster,2026-10-26
+NC State,17,Talia Francom,MB,Middle,So.,6' 5'',"Cary, NC",https://gopack.com/sports/womens-volleyball/roster,2026-10-26
+NC State,22,Eva Long,S,Setter,Fr.,5' 11'',"Fenton, Michigan",https://gopack.com/sports/womens-volleyball/roster,2026-10-26
+NC State,23,Jordan Smith,OPP,Opposite,So.,6' 4'',"Cottleville, Missouri",https://gopack.com/sports/womens-volleyball/roster,2026-10-26
+NC State,27,Rebecca Ring,OH,Outside,So.,6' 2'',"Madison, WI",https://gopack.com/sports/womens-volleyball/roster,2026-10-26
+NC State,31,Elaisa Villar,S/DS,Setter,5th,5' 8'',"Hialeah, Fla.",https://gopack.com/sports/womens-volleyball/roster,2026-10-26
+NC State,42,Britni Silver,OH,Outside,Fr.,5' 10'',"Greenville, North Carolina",https://gopack.com/sports/womens-volleyball/roster,2026-10-26
+North Carolina,0,Mackenzie Boyer,MB,Middle,Sr.,,"Austin, Texas",https://goheels.com/sports/womens-volleyball/roster,2026-10-26
+North Carolina,1,Zoe Behrendt,S,Setter,Sr.,,"Whitefish Bay, Wis.",https://goheels.com/sports/womens-volleyball/roster,2026-10-26
+North Carolina,3,Lauren Schutter,MB,Middle,Gr.,,"Alma, Kansas",https://goheels.com/sports/womens-volleyball/roster,2026-10-26
+North Carolina,4,Erin Curtis,OH,Outside,Jr.,,"Los Altos, Calif.",https://goheels.com/sports/womens-volleyball/roster,2026-10-26
+North Carolina,5,Meghan Clifford,MB,Middle,Jr.,,"Fairport, N.Y.",https://goheels.com/sports/womens-volleyball/roster,2026-10-26
+North Carolina,6,Julia Bohlinger,L/DS,Libero,Jr.,,"Windsor, Colo.",https://goheels.com/sports/womens-volleyball/roster,2026-10-26
+North Carolina,7,Sadie Swift,MB,Middle,Gr.,,"Austin, Texas",https://goheels.com/sports/womens-volleyball/roster,2026-10-26
+North Carolina,8,Sienna Cozza,S,Setter,So.,,"Pittsburgh, Pa.",https://goheels.com/sports/womens-volleyball/roster,2026-10-26
+North Carolina,10,Bridget Malone,OH,Outside,So.,,"Highlands Ranch, Colo.",https://goheels.com/sports/womens-volleyball/roster,2026-10-26
+North Carolina,14,Emily Bobbitt,S,Setter,Jr.,,"Clayton, N.C.",https://goheels.com/sports/womens-volleyball/roster,2026-10-26
+North Carolina,18,Carly Markham,L/DS,Libero,Fr.,,"Apex, N.C.",https://goheels.com/sports/womens-volleyball/roster,2026-10-26
+North Carolina,20,Lindley Miller,OH/OPP,Outside,Fr.,,"Cary, N.C.",https://goheels.com/sports/womens-volleyball/roster,2026-10-26
+North Carolina,21,Jackie Taylor,MB,Middle,Jr.,,"Miami, Fla.",https://goheels.com/sports/womens-volleyball/roster,2026-10-26
+North Carolina,22,Safi Hampton,OH,Outside,Sr.,,"Jessup, Md.",https://goheels.com/sports/womens-volleyball/roster,2026-10-26
+North Carolina,23,Laynie Smith,OH/OPP,Outside,Jr.,,"Durham, N.C.",https://goheels.com/sports/womens-volleyball/roster,2026-10-26
+North Carolina,24,Addison West,OH,Outside,Fr.,,"Omaha, Neb.",https://goheels.com/sports/womens-volleyball/roster,2026-10-26
+North Carolina,33,Hailey Pearce,RS,Opposite,Sr.,,"Charlotte, N.C.",https://goheels.com/sports/womens-volleyball/roster,2026-10-26
+North Carolina,77,Chelsea Thorpe,OH/OPP,Outside,Gr.,,"Chicago, Ill.",https://goheels.com/sports/womens-volleyball/roster,2026-10-26
+Notre Dame,1,Hailie Vaughn,Outside Hitter,Outside,Freshman,6-0,"Overland Park, KS",https://fightingirish.com/sports/wvball/roster/,2026-10-26
+Notre Dame,2,Chloe Hooker,Libero,Libero,Fifth Year,5-9,"San Diego, CA",https://fightingirish.com/sports/wvball/roster/,2026-10-26
+Notre Dame,3,Portia Zeidler,Middle Blocker,Middle,Freshman,6-4,"Los Gatos, CA",https://fightingirish.com/sports/wvball/roster/,2026-10-26
+Notre Dame,4,Lily Fenton,Setter,Setter,Senior,5-7,"Latrobe, PA",https://fightingirish.com/sports/wvball/roster/,2026-10-26
+Notre Dame,5,Carla Mercado,Libero,Libero,Freshman,5-9,"Bayamón, Puerto Rico",https://fightingirish.com/sports/wvball/roster/,2026-10-26
+Notre Dame,7,Stella Adeyemi,Outside Hitter,Outside,Senior,5-11,"Papillion, NE",https://fightingirish.com/sports/wvball/roster/,2026-10-26
+Notre Dame,8,Maya Evens,Defensive Specialist/Libero,DS,Sophomore,5-6,"San Diego, CA",https://fightingirish.com/sports/wvball/roster/,2026-10-26
+Notre Dame,10,Angie Desamours,Outside Hitter,Outside,Sophomore,5-10,"Chantilly, VA",https://fightingirish.com/sports/wvball/roster/,2026-10-26
+Notre Dame,11,Isabella Sangha,Middle Blocker,Middle,Freshman,6-3,"Fort Lauderdale, FL",https://fightingirish.com/sports/wvball/roster/,2026-10-26
+Notre Dame,12,Sophia Thornburg,Outside Hitter,Outside,Sophomore,6-2,"Dallas, TX",https://fightingirish.com/sports/wvball/roster/,2026-10-26
+Notre Dame,14,Sydney Helmers,Outside Hitter,Outside,Senior,6-4,"Hebron, KY",https://fightingirish.com/sports/wvball/roster/,2026-10-26
+Notre Dame,15,Mae Kordas,Outside Hitter/Opposite,Outside,Sophomore,6-3,"Carlsbad, CA",https://fightingirish.com/sports/wvball/roster/,2026-10-26
+Notre Dame,19,Chichi Nnaji,Outside Hitter,Outside,Sophomore,6-4,"Dallas, TX",https://fightingirish.com/sports/wvball/roster/,2026-10-26
+Notre Dame,21,Mia Radeff,Outside Hitter,Outside,Junior,6-0,"Menlo Park, CA",https://fightingirish.com/sports/wvball/roster/,2026-10-26
+Notre Dame,22,Ava Lange,Outside Hitter,Outside,Senior,6-3,"Playa Del Rey, CA",https://fightingirish.com/sports/wvball/roster/,2026-10-26
+Notre Dame,23,Maya Baker,Setter,Setter,Sophomore,5-10,"San Jose, CA",https://fightingirish.com/sports/wvball/roster/,2026-10-26
+Notre Dame,24,Kailyn Greene-Gordon,Opposite,Opposite,Junior,6-4,"Haddon Heights, NJ",https://fightingirish.com/sports/wvball/roster/,2026-10-26
+Notre Dame,31,Anna Bjork,Middle Blocker,Middle,Junior,6-3,"Oconomowoc, WI",https://fightingirish.com/sports/wvball/roster/,2026-10-26
+Notre Dame,33,Grace Langer,Middle Blocker,Middle,Junior,6-3,"Centennial, CO",https://fightingirish.com/sports/wvball/roster/,2026-10-26
+Pittsburgh,2,Maaike Heilig,MB,Middle,Fr.,6' 4'',"Hoogkarspel, Netherlands / Martinuscollege Grootebroek",https://pittsburghpanthers.com/sports/womens-volleyball/roster,2026-10-26
+Pittsburgh,3,Jordyn Dailey,MB,Middle,Sr.,6' 2'',"Franklinton, N.C. / NC Academy for Learning and Enrichment",https://pittsburghpanthers.com/sports/womens-volleyball/roster,2026-10-26
+Pittsburgh,5,Olivia Babcock,RS,Opposite,Sr.,6' 4'',"Los Angeles, Calif. / Sierra Canyon HS",https://pittsburghpanthers.com/sports/womens-volleyball/roster,2026-10-26
+Pittsburgh,6,Sophia Gregoire,OH,Outside,Sr.,6' 1'',"Dundee, Ore. / Newberg HS",https://pittsburghpanthers.com/sports/womens-volleyball/roster,2026-10-26
+Pittsburgh,7,Izzy Masten,L/DS,Libero,So.,5' 8'',"Brownsburg, Indiana / Tri-West HS",https://pittsburghpanthers.com/sports/womens-volleyball/roster,2026-10-26
+Pittsburgh,8,Blaire Bayless,OH,Outside,Sr.,6' 2'',"Plano, Texas / Plano West HS",https://pittsburghpanthers.com/sports/womens-volleyball/roster,2026-10-26
+Pittsburgh,9,Trinity Thompson,S/DS,Setter,Fr.,5' 9'',"Las Vegas, Nev. / Bishop Gorman",https://pittsburghpanthers.com/sports/womens-volleyball/roster,2026-10-26
+Pittsburgh,10,Marina Pezelj,OH,Outside,So.,6' 1'',Monaco / Lycée Polyvalent Bellevue Toulouse,https://pittsburghpanthers.com/sports/womens-volleyball/roster,2026-10-26
+Pittsburgh,11,Lola Sageer,OH,Outside,Fr.,6' 2'',"Syracuse, NY / Liverpool HS",https://pittsburghpanthers.com/sports/womens-volleyball/roster,2026-10-26
+Pittsburgh,12,Ayanna Watson,OH,Outside,Fr.,6' 2'',"Las Vegas, Nev. / Bishop Gorman",https://pittsburghpanthers.com/sports/womens-volleyball/roster,2026-10-26
+Pittsburgh,13,Mallorie Meyer,L/DS,Libero,Jr.,5' 7'',"Roca, Neb. / Lincoln East",https://pittsburghpanthers.com/sports/womens-volleyball/roster,2026-10-26
+Pittsburgh,20,Abbey Emch,MB,Middle,So.,6' 4'',"New Waterford, Ohio / Crestview HS",https://pittsburghpanthers.com/sports/womens-volleyball/roster,2026-10-26
+Pittsburgh,21,Izzy Starck,S,Setter,Jr.,6' 1'',"Viera, Fla. / Viera HS",https://pittsburghpanthers.com/sports/womens-volleyball/roster,2026-10-26
+Pittsburgh,25,Haiti Tautua'a,S,Setter,Sr.,6' 0'',"Wai'anae, Hawai'i / Wai'anae HS",https://pittsburghpanthers.com/sports/womens-volleyball/roster,2026-10-26
+Pittsburgh,33,Jessica Smallwood,RS,Opposite,Fr.,6' 6'',"Elizabethtown, Ky. / Elizabethtown HS",https://pittsburghpanthers.com/sports/womens-volleyball/roster,2026-10-26
+SMU,0,Victoria Harris,DS/Libero,DS,JR,5' 4'',"Columbia, S.C.",https://smumustangs.com/sports/womens-volleyball/roster,2026-10-26
+SMU,2,Sarah Frazee,DS/Libero,DS,SO,5' 6'',"Gulf Breeze, Fla.",https://smumustangs.com/sports/womens-volleyball/roster,2026-10-26
+SMU,3,Bojana Ambulija,Outside/Opposite Hitter,Outside,FR,6' 3'',"Trebinje, Bosnia and Herzegovina",https://smumustangs.com/sports/womens-volleyball/roster,2026-10-26
+SMU,4,Christa Wilburn,Outside Hitter,Outside,SO,6' 2'',"Dripping Springs, Texas",https://smumustangs.com/sports/womens-volleyball/roster,2026-10-26
+SMU,5,Elle Vandeweghe,Middle Blocker,Middle,FR,6' 5'',"Manhattan Beach, Calif.",https://smumustangs.com/sports/womens-volleyball/roster,2026-10-26
+SMU,6,Victoria Shupe,DS/Libero,DS,FR,5' 7'',"Spring, Texas",https://smumustangs.com/sports/womens-volleyball/roster,2026-10-26
+SMU,7,Ellie Moore,Setter,Setter,RS SO,5' 9'',"Darien, Conn.",https://smumustangs.com/sports/womens-volleyball/roster,2026-10-26
+SMU,8,Mia Silva,DS/Libero,DS,RS SO,5' 9'',"San Antonio, Texas",https://smumustangs.com/sports/womens-volleyball/roster,2026-10-26
+SMU,10,Brooke Gilmour,Middle Blocker,Middle,SO,6' 1'',"Westlake Village, Calif.",https://smumustangs.com/sports/womens-volleyball/roster,2026-10-26
+SMU,11,Hannah Beauford,Setter,Setter,RS FR,5' 11'',"Prosper, Texas",https://smumustangs.com/sports/womens-volleyball/roster,2026-10-26
+SMU,12,Natalia Newsome,Middle Blocker,Middle,JR,5' 11'',"Arlington, Texas",https://smumustangs.com/sports/womens-volleyball/roster,2026-10-26
+SMU,15,Gabi Placide,Pin Hitter,Pin,SR,6' 0'',"Centennial, Colo.",https://smumustangs.com/sports/womens-volleyball/roster,2026-10-26
+SMU,17,Levariya Pinder,Outside/Opposite Hitter,Outside,FR,5' 10'',"Justin, Texas",https://smumustangs.com/sports/womens-volleyball/roster,2026-10-26
+SMU,21,Favor Anyanwu,Middle Blocker,Middle,JR,6' 2'',"Rowlett, Texas",https://smumustangs.com/sports/womens-volleyball/roster,2026-10-26
+SMU,25,Suli Davis,Outside Hitter,Outside,SO,6' 2'',"Euless, Texas",https://smumustangs.com/sports/womens-volleyball/roster,2026-10-26
+SMU,42,Jadyn Livings,Outside/Opposite Hitter,Outside,JR,6' 1'',"The Colony, Texas",https://smumustangs.com/sports/womens-volleyball/roster,2026-10-26
+Stanford,1,Sarah Hickman,Opposite,Opposite,Freshman,6-5,"Houston, Texas",https://gostanford.com/sports/womens-volleyball/roster,2026-10-26
+Stanford,4,Joy Udoye,Outside Hitter,Outside,Freshman,6-2,"Cedar Park, Texas",https://gostanford.com/sports/womens-volleyball/roster,2026-10-26
+Stanford,5,Jordyn Harvey,Opposite,Opposite,Senior,6-1,"Salt Lake City, Utah",https://gostanford.com/sports/womens-volleyball/roster,2026-10-26
+Stanford,6,Koko Kirsch,Defensive Specialist,DS,Senior,5-9,"Trabuco Canyon, Calif.",https://gostanford.com/sports/womens-volleyball/roster,2026-10-26
+Stanford,7,Julia Blyashov,Outside Hitter,Outside,Senior,6-3,"Carlsbad, Calif.",https://gostanford.com/sports/womens-volleyball/roster,2026-10-26
+Stanford,8,Sidney Duncan,Middle Blocker,Middle,Junior,6-2,"San Antonio, Texas",https://gostanford.com/sports/womens-volleyball/roster,2026-10-26
+Stanford,9,Spencer Etzler,Libero,Libero,Sophomore,5-7,"Coldwater, Ohio",https://gostanford.com/sports/womens-volleyball/roster,2026-10-26
+Stanford,10,Kaci Demaria,Outside Hitter,Outside,Sophomore,6-3,"San Pedro, Calif.",https://gostanford.com/sports/womens-volleyball/roster,2026-10-26
+Stanford,11,Lizzy Andrew,Middle Blocker,Middle,Junior,6-5,"Ridgefield, Wash.",https://gostanford.com/sports/womens-volleyball/roster,2026-10-26
+Stanford,14,Malyssa Cawa,Defensive Specialist,DS,Junior,5-6,"San Pedro, Calif.",https://gostanford.com/sports/womens-volleyball/roster,2026-10-26
+Stanford,15,Ipar Kurt,Outside Hitter,Outside,Senior,6-2,"Istanbul, Turkey",https://gostanford.com/sports/womens-volleyball/roster,2026-10-26
+Stanford,16,Ella Andrews,Middle Blocker,Middle,Freshman,6-4,"Grosse Pointe Park, Mich.",https://gostanford.com/sports/womens-volleyball/roster,2026-10-26
+Stanford,19,Simone Roslon,Outside Hitter,Outside,Freshman,5-11,"Hermosa Beach, Calif.",https://gostanford.com/sports/womens-volleyball/roster,2026-10-26
+Stanford,22,Erika Sayer,Middle Blocker,Middle,Sophomore,6-2,"Colorado Springs, Colo.",https://gostanford.com/sports/womens-volleyball/roster,2026-10-26
+Stanford,24,Logan Parks,Setter,Setter,Sophomore,6-0,"Overland Park, Kan.",https://gostanford.com/sports/womens-volleyball/roster,2026-10-26
+Stanford,26,Lilly Wagner,Setter,Setter,Junior,6-0,"Delafield, Wis.",https://gostanford.com/sports/womens-volleyball/roster,2026-10-26
+Stanford,30,Taylor Yu,Setter,Setter,Junior,6-0,"Temple City, Calif.",https://gostanford.com/sports/womens-volleyball/roster,2026-10-26
+Stanford,33,Zaria Queen,Opposite,Opposite,Sophomore,6-1,"Honolulu, Hawaii",https://gostanford.com/sports/womens-volleyball/roster,2026-10-26
+Syracuse,1,Charis Burge,S,Setter,Fr.,,"Frederick, MD",https://cuse.com/sports/womens-volleyball/roster,2026-10-26
+Syracuse,3,Kiera Hagler,MB,Middle,Fr.,,"Calera, AL",https://cuse.com/sports/womens-volleyball/roster,2026-10-26
+Syracuse,6,Marie Laurio,OH,Outside,So.,,"Ann Arbor, MI",https://cuse.com/sports/womens-volleyball/roster,2026-10-26
+Syracuse,8,Kiernan Stamey,OH,Outside,Jr.,,"Maryville, TN",https://cuse.com/sports/womens-volleyball/roster,2026-10-26
+Syracuse,10,Bo Nijenhuis,MB,Middle,5th,,"Markelo, Netherlands",https://cuse.com/sports/womens-volleyball/roster,2026-10-26
+Syracuse,12,Keila Gabriel,RS,Opposite,So.,,"San Diego, CA",https://cuse.com/sports/womens-volleyball/roster,2026-10-26
+Syracuse,13,Aileen McAllister,OH,Outside,Fr.,,"Yokosuka, Japan",https://cuse.com/sports/womens-volleyball/roster,2026-10-26
+Syracuse,15,Emma Faerber,MB,Middle,Fr.,,"Wiesbaden, Germany",https://cuse.com/sports/womens-volleyball/roster,2026-10-26
+Syracuse,16,Queen Howse,DS/L,DS,Fr.,,"Brentwood, TN",https://cuse.com/sports/womens-volleyball/roster,2026-10-26
+Syracuse,18,Yuka Urano,DS/L,DS,So.,,"Tokyo, Japan",https://cuse.com/sports/womens-volleyball/roster,2026-10-26
+Syracuse,19,Emma Williams,OH/RS,Outside,Jr.,,"Portland, OR",https://cuse.com/sports/womens-volleyball/roster,2026-10-26
+Syracuse,21,Bella Rodriguez,OH/RS,Outside,Jr.,,"San Antonio, TX",https://cuse.com/sports/womens-volleyball/roster,2026-10-26
+Syracuse,22,Mira Ledermueller,S,Setter,Sr.,,"Endorf, Germany",https://cuse.com/sports/womens-volleyball/roster,2026-10-26
+Syracuse,23,Abby Nicholson,MB,Middle,5th,,"Savannah, GA",https://cuse.com/sports/womens-volleyball/roster,2026-10-26
+Virginia,1,Meredith Reeg,DS/L,DS,4th Year,5-7,"Raleigh, N.C.",https://virginiasports.com/sports/wvball/roster/,2026-10-26
+Virginia,2,Reagan Ennist,OH,Outside,2nd Year,6-3,"Clifton Park, N.Y.",https://virginiasports.com/sports/wvball/roster/,2026-10-26
+Virginia,3,Katie Barrier,DS/L,DS,4th Year,5-5,"Nashville, Tenn.",https://virginiasports.com/sports/wvball/roster/,2026-10-26
+Virginia,5,Caroline Lang,MB,Middle,2nd Year,6-3,"Charlottesville, Va.",https://virginiasports.com/sports/wvball/roster/,2026-10-26
+Virginia,6,Ella Brodner,OH/RS,Outside,1st Year,6-2,"Jupiter, Fla.",https://virginiasports.com/sports/wvball/roster/,2026-10-26
+Virginia,7,Teagan Hogan,DS/L,DS,3rd Year,5-11,"Raleigh, N.C.",https://virginiasports.com/sports/wvball/roster/,2026-10-26
+Virginia,8,Ruby McDermott,DS/L,DS,1st Year,5-10,"Roswell, Ga.",https://virginiasports.com/sports/wvball/roster/,2026-10-26
+Virginia,10,Zoey Dood,S,Setter,3rd Year,6-2,"Grandville, Mich.",https://virginiasports.com/sports/wvball/roster/,2026-10-26
+Virginia,11,Hannah Scott,S,Setter,4th Year,5-11,"Franklin, Tenn.",https://virginiasports.com/sports/wvball/roster/,2026-10-26
+Virginia,12,MaryGrace Gonyeau,OH,Outside,1st Year,6-1,"Raleigh, N.C.",https://virginiasports.com/sports/wvball/roster/,2026-10-26
+Virginia,14,Olivia Siskin,S,Setter,1st Year,6-1,"Atlanta, Ga.",https://virginiasports.com/sports/wvball/roster/,2026-10-26
+Virginia,16,Emily Fowler,MB,Middle,4th Year,6-3,"Statesboro, Ga.",https://virginiasports.com/sports/wvball/roster/,2026-10-26
+Virginia,17,Reese Wuebker,OH,Outside,3rd Year,5-9,"Centerville, Ohio",https://virginiasports.com/sports/wvball/roster/,2026-10-26
+Virginia,18,Skyler Gates,MB,Middle,1st Year,6-4,"Uniontown, Pa.",https://virginiasports.com/sports/wvball/roster/,2026-10-26
+Virginia,24,Sarah Brodner,OH/RS,Outside,3rd Year,6-5,"Jupiter, Fla.",https://virginiasports.com/sports/wvball/roster/,2026-10-26
+Virginia,30,Becca Wight,RS,Opposite,3rd Year,6-6,"Worthington, Ohio",https://virginiasports.com/sports/wvball/roster/,2026-10-26
+Virginia,33,Lauryn Bowie,OH/RS,Outside,4th Year,6-2,"Westerville, Ohio",https://virginiasports.com/sports/wvball/roster/,2026-10-26
+Virginia Tech,1,Courtney Burgess,Setter,Setter,Freshman,6-0,"Columbia, S.C.",https://hokiesports.com/sports/volleyball/roster,2026-10-26
+Virginia Tech,3,Santina Martcheva,Outside Hitter,Outside,Freshman,6-1,"Virginia Beach, VA",https://hokiesports.com/sports/volleyball/roster,2026-10-26
+Virginia Tech,4,Izzy Mishler,Middle Blocker,Middle,Junior,6-3,"Schaumburg, Ill.",https://hokiesports.com/sports/volleyball/roster,2026-10-26
+Virginia Tech,5,Avery Feltes,Outside Hitter,Outside,Freshman,6-0,"Normal, Ill.",https://hokiesports.com/sports/volleyball/roster,2026-10-26
+Virginia Tech,6,Destiny Walker,Outside Hitter,Outside,Junior,5-11,"Rio Grande, Puerto Rico",https://hokiesports.com/sports/volleyball/roster,2026-10-26
+Virginia Tech,7,Camilla Brandalise,Setter,Setter,Senior,5-11,"São Paulo, Brazil",https://hokiesports.com/sports/volleyball/roster,2026-10-26
+Virginia Tech,8,Adeline Hundl,Outside Hitter,Outside,Sophomore,5-11,"El Campo, Texas",https://hokiesports.com/sports/volleyball/roster,2026-10-26
+Virginia Tech,9,Isabela Lopez,Outside Hitter,Outside,Freshman,6-0,"Jacksonville, Fla.",https://hokiesports.com/sports/volleyball/roster,2026-10-26
+Virginia Tech,10,Camdynn Gonzalez,Setter,Setter,Freshman,5-7,"Mars, PA",https://hokiesports.com/sports/volleyball/roster,2026-10-26
+Virginia Tech,11,Paloma Zubiri,Outside Hitter,Outside,Sophomore,6-2,"Pergamino, Buenos Aires, Argentina",https://hokiesports.com/sports/volleyball/roster,2026-10-26
+Virginia Tech,13,Cece Sayles,Middle Blocker,Middle,Freshman,6-4,"Brandon, Fla.",https://hokiesports.com/sports/volleyball/roster,2026-10-26
+Virginia Tech,15,Avery Webb,Libero/Defensive Specialist,Libero,Freshman,5-3,"Saint Johns, Fla.",https://hokiesports.com/sports/volleyball/roster,2026-10-26
+Virginia Tech,16,Frances Torres,Right Side Hitter,Opposite,Senior,6-0,"Clarksburg, Md.",https://hokiesports.com/sports/volleyball/roster,2026-10-26
+Virginia Tech,19,Georgia Trexler,Middle Blocker,Middle,Sophomore,6-2,"Denver, N.C.",https://hokiesports.com/sports/volleyball/roster,2026-10-26
+Virginia Tech,21,Ece Yildiz,Libero/Defensive Specialist,Libero,Junior,5-4,"Istanbul, Turkey",https://hokiesports.com/sports/volleyball/roster,2026-10-26
+Virginia Tech,23,Ivy Cooper,Libero/Defensive Specialist,Libero,Sophomore,5-4,"Port Saint Lucie, Fla.",https://hokiesports.com/sports/volleyball/roster,2026-10-26
+Virginia Tech,24,Reese Hazelton,Outside Hitter,Outside,Junior,6-2,"Philipsburg, Pa.",https://hokiesports.com/sports/volleyball/roster,2026-10-26
+Virginia Tech,25,Sara Gasparini,Outside Hitter,Outside,Redshirt Junior,5-11,"Brescia, Italy",https://hokiesports.com/sports/volleyball/roster,2026-10-26
+Virginia Tech,26,Layla Moore,Middle Blocker,Middle,Sophomore,6-3,"Long Beach, Calif.",https://hokiesports.com/sports/volleyball/roster,2026-10-26
+Wake Forest,1,Dhru Lalaji,DS,DS,Jr.,,"Atlanta, Ga.",https://godeacs.com/sports/womens-volleyball/roster,2026-10-26
+Wake Forest,2,Patrycja Lagida,OH,Outside,Sr.,,"Chotomow, Poland",https://godeacs.com/sports/womens-volleyball/roster,2026-10-26
+Wake Forest,3,Ava Roddey,S/DS,Setter,Fr.,,"Greenville, SC",https://godeacs.com/sports/womens-volleyball/roster,2026-10-26
+Wake Forest,6,Camille McCoy,MB,Middle,Fr.,,"Atlanta, Ga.",https://godeacs.com/sports/womens-volleyball/roster,2026-10-26
+Wake Forest,7,Elena Dragani,S,Setter,Sr.,,"Brookfield, Wis.",https://godeacs.com/sports/womens-volleyball/roster,2026-10-26
+Wake Forest,8,Emma Keeping,S,Setter,Fr.,,"Imlay City, Mich.",https://godeacs.com/sports/womens-volleyball/roster,2026-10-26
+Wake Forest,9,Andrea Roman,DS/L,DS,Sr.,,"Humacao, Puerto Rico",https://godeacs.com/sports/womens-volleyball/roster,2026-10-26
+Wake Forest,10,Catherine Burke,MB,Middle,R-Jr.,,"Glenview, Ill.",https://godeacs.com/sports/womens-volleyball/roster,2026-10-26
+Wake Forest,11,Sadie Poeck,RS,Opposite,So.,,"Zionsville, Ind.",https://godeacs.com/sports/womens-volleyball/roster,2026-10-26
+Wake Forest,13,Mattea Saunders,L,Libero,Fr.,,"Phoenix, Ariz.",https://godeacs.com/sports/womens-volleyball/roster,2026-10-26
+Wake Forest,14,Kelis Hawkins,MB,Middle,So.,,"Fontana, Calif.",https://godeacs.com/sports/womens-volleyball/roster,2026-10-26
+Wake Forest,15,Amina N'Diaye,OH,Outside,So.,,"Orlando, Fla.",https://godeacs.com/sports/womens-volleyball/roster,2026-10-26
+Wake Forest,16,Laiya Ebo,RS,Opposite,Sr.,,"Washington, D.C.",https://godeacs.com/sports/womens-volleyball/roster,2026-10-26
+Wake Forest,18,Becca Bellows,S,Setter,Jr.,,"Wheaton, Ill.",https://godeacs.com/sports/womens-volleyball/roster,2026-10-26
+Wake Forest,21,Lyla Stewart,OH,Outside,Fr.,,"Powell, Ohio",https://godeacs.com/sports/womens-volleyball/roster,2026-10-26
+Wake Forest,22,Ryleigh Whitekettle,RS/OH,Opposite,Gr.,,"Topsail Beach, N.C.",https://godeacs.com/sports/womens-volleyball/roster,2026-10-26
+Wake Forest,23,Sanaa Williams,MB,Middle,R-Sr.,,"Nashville, Tenn.",https://godeacs.com/sports/womens-volleyball/roster,2026-10-26
