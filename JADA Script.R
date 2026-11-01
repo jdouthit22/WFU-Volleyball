@@ -157,3 +157,6 @@ rosters_clean |>
   group_by(position_group) |>
   summarise(n = n(), avg_height_in = round(mean(height_in), 1)) |>
   arrange(desc(avg_height_in))
+
+
+write_excel_csv(rosters_clean, "~/Downloads/acc_rosters_clean.csv")
